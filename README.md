@@ -100,9 +100,35 @@ Pricing Insights
 ```text
 vehicle-price-intelligence/
 │
+├── frontend/                         # User-facing web application
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── hooks/
+│   │   ├── utils/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── package.json
+│   └── README.md
+│
+├── backend/                          # API for prediction
+│   ├── app/
+│   │   ├── routes/
+│   │   │   └── prediction.py
+│   │   ├── services/
+│   │   │   └── prediction_service.py
+│   │   ├── schemas/
+│   │   │   └── vehicle.py
+│   │   ├── main.py
+│   │   └── config.py
+│   ├── requirements.txt
+│   └── README.md
+│
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   ├── raw/                          # Original stakeholder data
+│   └── processed/                    # Cleaned/transformed data
 │
 ├── notebooks/
 │   ├── 01_data_understanding.ipynb
@@ -115,18 +141,48 @@ vehicle-price-intelligence/
 │
 ├── src/
 │   ├── data/
+│   │   ├── loading.py
+│   │   ├── cleaning.py
+│   │   └── validation.py
+│   │
 │   ├── features/
+│   │   ├── engineering.py
+│   │   └── encoding.py
+│   │
 │   ├── models/
+│   │   ├── linear_regression.py
+│   │   ├── ridge.py
+│   │   ├── lasso.py
+│   │   ├── random_forest.py
+│   │   └── xgboost_model.py
+│   │
 │   ├── evaluation/
+│   │   ├── metrics.py
+│   │   ├── cross_validation.py
+│   │   └── model_comparison.py
+│   │
 │   └── visualization/
+│       └── plots.py
 │
-├── models/
+├── models/                           # Saved trained models
+│   ├── preprocessing/
+│   └── trained/
+│
 ├── reports/
-├── tests/
+│   ├── figures/
+│   ├── tables/
+│   ├── data-dictionary.md
+│   └── decision-log.md
 │
-├── requirements.txt
+├── tests/
+│   ├── test_data.py
+│   ├── test_features.py
+│   ├── test_models.py
+│   └── test_api.py
+│
 ├── .gitignore
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ---
