@@ -1,0 +1,54 @@
+Unnamed: 0,Brand,Model,YOM,Engine (cc),Gear,Fuel Type,Millage(KM),Town,Date,Leasing,Condition,AIR CONDITION,POWER STEERING,POWER MIRROR,POWER WINDOW,Price
+32,AUDI,A4,2010.0,1800.0,Automatic,Petrol,165000.0,Gampaha,12/26/2024,No Leasing,USED,Available,Available,Available,Available,
+51,AUDI,A6 T1.8,,1800.0,Automatic,Petrol,231000.0,Nittambuwa,1/3/2025,No Leasing,USED,Available,Available,Available,Available,16.95
+68,AUSTIN,MINI COOPER,1997.0,1300.0,Automatic,Petrol,,Kadawatha,1/4/2025,No Leasing,USED,Available,Not_Available,Not_Available,Not_Available,23.0
+77,BAJAJ,QUTE,2019.0,1500.0,Manual,Petrol,,Galle,12/15/2024,No Leasing,USED,Not_Available,Not_Available,Available,Not_Available,12.25
+2941,NISSAN,FB15 SUPER SALOON,2000.0,,Automatic,Petrol,275000.0,Kuliyapitiya,1/30/2025,No Leasing,USED,Available,Available,Available,Available,38.5
+6417,SUZUKI,WAGON R STINGRAY,2018.0,650.0,Automatic,Petrol,77000.0,Polonnaruwa,12/13/2024,No Leasing,USED,Available,Available,Available,Available,
+6465,SUZUKI,WAGON R STINGRAY J STYLE,,660.0,Automatic,Hybrid,121000.0,Colombo,12/28/2024,No Leasing,USED,Available,Available,Available,Available,56.69444444
+6518,SUZUKI,ZEN ESTILO,2008.0,1000.0,Manual,Petrol,187000.0,Kurunegala,12/20/2024,Ongoing Lease,USED,Available,Available,Available,Available,
+6563,TATA,INDIGO,2015.0,1193.0,Manual,Petrol,,Bandaragama,1/14/2025,No Leasing,USED,Available,Available,Available,Available,28.5
+6637,TOYOTA,110,,1999.0,Automatic,Diesel,275000.0,Kalutara,2/4/2025,No Leasing,USED,Available,Available,Available,Not_Available,23.95
+6703,TOYOTA,AE81,1989.0,1450.0,Manual,Petrol,396000.0,Matara,1/2/2025,No Leasing,USED,Not_Available,Available,Not_Available,Not_Available,
+6754,TOYOTA,ALLION,,1490.0,Automatic,Petrol,253000.0,Colombo,12/29/2024,Ongoing Lease,USED,Available,Available,Available,Available,65.0
+6812,TOYOTA,ALLION 240,2007.0,1500.0,Automatic,Petrol,198000.0,Mirigama,12/21/2024,No Leasing,USED,Available,Available,Available,Available,
+6863,TOYOTA,ALLION 260,2010.0,,Automatic,Petrol,165000.0,Dankotuwa,12/22/2024,No Leasing,USED,Available,Available,Available,Available,103.1555556
+7031,TOYOTA,AQUA,2014.0,1500.0,Automatic,Hybrid,121000.0,Anuradapura,12/27/2024,No Leasing,USED,Available,Available,Available,Available,
+7058,TOYOTA,AQUA,2012.0,1500.0,Automatic,Hybrid,,Piliyandala,12/20/2024,No Leasing,USED,Available,Available,Available,Available,69.95
+7104,TOYOTA,AQUA G GRADE,,1490.0,Automatic,Hybrid,121000.0,Tangalle,2/4/2025,No Leasing,USED,Available,Available,Available,Available,82.0
+7161,TOYOTA,AQUA S GRADE,2013.0,1495.0,Automatic,Hybrid,,Gampaha,2/4/2025,No Leasing,USED,Available,Available,Available,Available,74.85
+7243,TOYOTA,AVANZA,,1300.0,Manual,Petrol,143000.0,Colombo,1/25/2025,No Leasing,USED,Available,Available,Available,Available,74.9
+7309,TOYOTA,AXIO,2014.0,,Automatic,Petrol,121000.0,Galle,1/10/2025,No Leasing,USED,Available,Available,Not_Available,Available,97.0
+7411,TOYOTA,AXIO 161,2013.0,1500.0,Automatic,Petrol,132000.0,Dehiwala-Mount-Lavinia,2/4/2025,No Leasing,USED,Available,Available,Available,Available,
+7444,TOYOTA,AXIO G GRADE,2013.0,,Automatic,Hybrid,132000.0,Maharagama,1/30/2025,No Leasing,USED,Available,Available,Available,Available,97.5
+7487,TOYOTA,AXIO WXB,2017.0,1500.0,Automatic,Hybrid,88000.0,Nugegoda,1/30/2025,No Leasing,USED,Available,Available,Available,Available,
+7521,TOYOTA,AXIO X GRADE,,1500.0,Automatic,Petrol,187000.0,Horana,1/8/2025,No Leasing,USED,Available,Available,Available,Available,72.0
+7653,TOYOTA,CARINA,1998.0,1500.0,Manual,Petrol,297000.0,Moneragala,1/6/2025,Ongoing Lease,USED,Available,Available,Not_Available,Available,
+7696,TOYOTA,CARINA AA60,1986.0,1500.0,Manual,Petrol,,Matugama,1/27/2025,No Leasing,USED,Not_Available,Available,Not_Available,Not_Available,5.9
+7945,TOYOTA,COROLLA 121 LXI LIMITED,2003.0,1500.0,Automatic,Petrol,,Kottawa,2/4/2025,No Leasing,USED,Available,Available,Available,Available,57.9
+7976,TOYOTA,COROLLA 141,2008.0,1589.0,Automatic,Petrol,187000.0,Colombo,12/25/2024,No Leasing,USED,Available,Available,Available,Available,
+8050,TOYOTA,COROLLA AE110,2008.0,,Automatic,Petrol,187000.0,Nugegoda,2/1/2025,No Leasing,USED,Available,Available,Available,Available,43.95
+8310,TOYOTA,DX WAGON,,1500.0,Manual,Petrol,407000.0,Kandy,12/10/2024,No Leasing,USED,Available,Not_Available,Not_Available,Not_Available,10.25
+8442,TOYOTA,PASSO,2014.0,,Automatic,Petrol,121000.0,Colombo,2/1/2025,No Leasing,USED,Available,Available,Available,Available,56.0
+8512,TOYOTA,PLATZ,,1000.0,Automatic,Petrol,275000.0,Homagama,1/22/2025,No Leasing,USED,Available,Available,Not_Available,Not_Available,29.0
+8641,TOYOTA,PREMIO 260,2010.0,1500.0,Automatic,Petrol,165000.0,Negombo,12/17/2024,No Leasing,USED,Available,Available,Available,Available,
+8702,TOYOTA,PREMIO G SUPERIOR,2013.0,1490.0,Automatic,Petrol,132000.0,Avissawella,1/11/2025,No Leasing,USED,Available,Available,Available,Available,
+8730,TOYOTA,PREMIO G SUPERIOR,2012.0,,Automatic,Petrol,143000.0,Kurunegala,1/19/2025,No Leasing,USED,Available,Available,Available,Available,117.0
+8775,TOYOTA,PRIUS,,1800.0,Automatic,Petrol,99000.0,Colombo,2/1/2025,No Leasing,USED,Available,Available,Available,Available,136.7678571
+8865,TOYOTA,PRIUS,2011.0,1800.0,Automatic,Hybrid,154000.0,Nittambuwa,12/4/2024,No Leasing,USED,Available,Available,Available,Available,
+9019,TOYOTA,STARLET EP91,1996.0,,Automatic,Petrol,319000.0,Kuliyapitiya,1/25/2025,No Leasing,USED,Available,Available,Available,Not_Available,32.5
+9088,TOYOTA,VIOS,,1500.0,Automatic,Petrol,242000.0,Kegalle,2/1/2025,No Leasing,USED,Available,Available,Available,Available,48.0
+9212,TOYOTA,VITZ,2010.0,1000.0,Automatic,Petrol,165000.0,Polonnaruwa,2/1/2025,No Leasing,USED,Available,Available,Available,Available,
+9242,TOYOTA,VITZ,,1000.0,Automatic,Petrol,110000.0,Gampaha,1/29/2025,No Leasing,USED,Available,Available,Available,Available,71.5
+9275,TOYOTA,VITZ,2019.0,1000.0,Automatic,Petrol,66000.0,Dankotuwa,1/14/2025,No Leasing,USED,Available,Available,Available,Available,
+9302,TOYOTA,VITZ,2016.0,1000.0,Automatic,Petrol,99000.0,Avissawella,1/7/2025,No Leasing,USED,Available,Not_Available,Available,Not_Available,
+9337,TOYOTA,VITZ,2007.0,,Automatic,Petrol,198000.0,Colombo,1/24/2025,No Leasing,USED,Available,Available,Available,Available,56.75
+9383,TOYOTA,VITZ,2007.0,1000.0,Automatic,Petrol,198000.0,Minuwangoda,1/1/2025,No Leasing,USED,Available,Available,Available,Available,
+9417,TOYOTA,VITZ,2018.0,1000.0,Automatic,Petrol,,Kandy,12/24/2024,No Leasing,USED,Available,Available,Available,Available,92.0
+9464,TOYOTA,VITZ,2007.0,1000.0,Automatic,Petrol,198000.0,Kandy,12/14/2024,No Leasing,USED,Available,Available,Available,Available,
+9537,TOYOTA,VITZ EDITION 3S,2019.0,1000.0,Automatic,Petrol,66000.0,Nugegoda,2/3/2025,No Leasing,USED,Available,Available,Available,Available,
+9562,TOYOTA,VITZ KSP90,2008.0,1000.0,Automatic,Petrol,187000.0,Piliyandala,2/5/2025,No Leasing,USED,Available,Available,Available,Available,
+9589,TOYOTA,VITZ KSP90,2007.0,990.0,Automatic,Petrol,,Ratnapura,1/5/2025,No Leasing,USED,Available,Available,Available,Not_Available,51.0
+9685,TOYOTA,YARIS,2011.0,1300.0,Automatic,Petrol,154000.0,Kottawa,1/15/2025,No Leasing,USED,Available,Available,Available,Available,
+9722,TOYOTA,YARIS,2008.0,1300.0,Automatic,Petrol,187000.0,Matara,12/8/2024,No Leasing,USED,Available,Available,Available,Available,
+9764,ZOTYE,Z100,2020.0,1000.0,Manual,Petrol,55000.0,Panadura,2/5/2025,No Leasing,USED,Available,Available,Available,Available,
