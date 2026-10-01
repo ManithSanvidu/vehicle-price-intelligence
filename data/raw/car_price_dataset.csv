@@ -1,4 +1,4 @@
-,Brand,Model,YOM,Engine (cc),Gear,Fuel Type,Millage(KM),Town,Date,Leasing,Condition,AIR CONDITION,POWER STEERING,POWER MIRROR,POWER WINDOW,Price
+,Brand,Model,YOM,Engine (cc),Gear,Fuel Type,Mileage(KM),Town,Date,Leasing,Condition,AIR CONDITION,POWER STEERING,POWER MIRROR,POWER WINDOW,Price
 0,AUDI,A1,2016,990,Automatic,Petrol,99000,Gampaha,2/5/2025,No Leasing,USED,Available,Available,Available,Available,100
 1,AUDI,A1,2017,1000,Automatic,Petrol,88000,Colombo,1/14/2025,No Leasing,USED,Available,Available,Available,Available,97
 2,AUDI,A1,2018,1000,Automatic,Petrol,77000,Dehiwala-Mount-Lavinia,1/23/2025,No Leasing,USED,Available,Available,Available,Available,98.5
