@@ -150,7 +150,7 @@ vehicle-price-intelligence/
 │   │   └── encoding.py
 │   │
 │   ├── models/
-│   │   ├── linear_regression.py
+│   │   ├── initial_models.py
 │   │   ├── ridge.py
 │   │   ├── lasso.py
 │   │   ├── random_forest.py
