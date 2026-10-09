@@ -25,4 +25,5 @@ This log records important project decisions, the reasons for them, and the evid
 | Select Lasso `alpha=0.01` | Lowest Lasso CV RMSE among the tested alpha values. |
 | Test Decision Tree | Checks whether a nonlinear model improves over the linear models. |
 | Test Random Forest | Checks whether an ensemble of trees improves over a single tree. |
-| Select Random Forest as the strongest initial model | It achieved the lowest CV RMSE of 14.7322 and highest CV R² of 0.8954 among the tested initial configurations. |
+| Select Random Forest as the strongest initial model | It achieved the best cross-validation performance among the tested initial configurations, with the lowest CV RMSE of 15.7333 and the highest CV R² of 0.8634. |
+| Evaluate the selected Random Forest on the held-out test set | After model selection, Random Forest achieved MAE = 6.0471 lakhs, RMSE = 14.7322 lakhs, and R² = 0.8954 on the test set. |
